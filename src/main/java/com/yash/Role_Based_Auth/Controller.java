@@ -22,6 +22,6 @@ public class Controller {
     }
     @GetMapping("/about")
     public String about(){
-        return "This  is HSBC Bank ";
+        return "This  is Bank ";
     }
 }
